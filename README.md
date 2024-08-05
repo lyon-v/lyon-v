@@ -5,7 +5,7 @@
 - 🤔 I’m  looking for job opportunities in go currently.
   
 ### work expirence
-- 2023.07 Leinao.Hefei
+- 2023.07 - present: hefei
 
 --- 
 
