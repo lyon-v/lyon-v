@@ -5,9 +5,6 @@
 - I’m looking to collaborate on docker-squash, containerd rootfs-quota
 - I’m looking for job opportunities in go currently.
   
-### work expirence
-- 2021.09 - present: hefei
-
 --- 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyon-v)
